@@ -117,3 +117,7 @@
 .nav ul {
   display: grid;
 }
+
+.logo {
+  justify-self: start;
+}
