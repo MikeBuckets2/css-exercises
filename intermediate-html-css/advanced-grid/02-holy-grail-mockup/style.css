@@ -121,3 +121,7 @@
 .logo {
   justify-self: start;
 }
+
+.menu {
+  align-self: center;
+}
